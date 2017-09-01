@@ -19,10 +19,10 @@ http://localhost:8080/spring-app/article/{id}
 - Add article:
 http://localhost:8080/spring-app/article/add
 
-- Edit Article
+- Edit Article:
 http://localhost:8080/spring-app/article/update
 
-- Delete Article
+- Delete Article:
 http://localhost:8080/spring-app/article/delete/{id}
 
 # Frameworks
