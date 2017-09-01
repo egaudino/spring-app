@@ -9,5 +9,5 @@ RESTful CRUD Application
 - run: mvn spring-boot:run
 
 # Frameworks
-Spring Web, JAX-RS, JPA/Hibernate
+Spring MVC, JAX-RS, JPA/Hibernate
 
